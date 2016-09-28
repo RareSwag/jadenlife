@@ -1,0 +1,125 @@
+body{
+
+  max-width: 825px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 7px;
+  background-color:#efefef;
+
+}
+
+header.top{
+    text-align: center;
+}
+
+h1 {
+  font-size:60px;
+  font-family: 'Baloo Bhai', cursive;
+  color: #efefef;
+}
+
+h2 {
+ font-size: 40px;
+ font-family: 'Baloo Bhaina', cursive;
+ color: #efefef;
+}
+
+h3{
+    font-size: 30px;
+    font-family: 'Baloo Bhaina', cursive;
+}
+p{
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 8px;
+}
+
+ol{
+    font-size:20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+ max-width: 100%;
+ border-radius: 8px;
+ border-style: solid;
+ border-color: #000000;
+ padding: 5px;
+ 
+}
+
+img.left{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    border-radius: 1000px;
+    
+}
+img.right{
+    float: right;
+     margin-right: 10px;
+    margin-bottom: 7px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+img.green {
+     float: left;
+    margin-right: 25px;
+    margin-bottom: 3px;  
+}
+img.swag{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    border-radius: 8px;
+}
+
+section{
+    background-color:#cccccc;
+}
+article{
+    background-color:#aaaaaa;
+}
+header{
+    Background-color: #333333;
+    text-align:center;
+}
+
+header.clear{
+    text-align: left;
+    background-color: #888888;
+}
+h3.clean{
+    background-color: #888888;
+    text-align: center
+}
+
+
+section.cool{
+    clear: both;
+}
+
+img.center{
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+
+footer{
+    font-color:#cccccc;
+     font-family: 'Baloo Bhaina', cursive;
+     font-size: 30px;
+}
+
+a:link{
+    color:#111f39;
+}
+
+a:visited{
+   color:#ffffff;
+}
